@@ -1,0 +1,6 @@
+model_checkpoint_path: "kaggle.ckpt-525600"
+all_model_checkpoint_paths: "kaggle.ckpt-262800"
+all_model_checkpoint_paths: "kaggle.ckpt-328500"
+all_model_checkpoint_paths: "kaggle.ckpt-394200"
+all_model_checkpoint_paths: "kaggle.ckpt-459900"
+all_model_checkpoint_paths: "kaggle.ckpt-525600"
