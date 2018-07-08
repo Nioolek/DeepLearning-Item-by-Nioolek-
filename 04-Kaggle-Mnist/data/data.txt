@@ -1,0 +1,1 @@
+数据文件大小超过github限制，数据请在kaggle的mnist竞赛中自行下载
